@@ -1,0 +1,14 @@
+layout_spectrum: 0.8192349120508879
+typography_spectrum: 0.7519671665504575
+color:
+  brandStrength: 0.940217403229326
+  lightness: 0.30250711971893907
+  saturation: 0.432721973862499
+  rhythmicContrast: 0.8218154818750918
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Marcin's Journal
